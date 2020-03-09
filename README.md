@@ -1,2 +1,2 @@
 # Neural_Network_Numpy
-Neural Network Implementation in Numpy
+Vectorized Neural Network Implementation in Numpy. 
